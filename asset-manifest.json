@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactFrontendProjsFreeCodeCamp/static/css/main.f080c358.css",
+    "main.js": "/ReactFrontendProjsFreeCodeCamp/static/js/main.fe114ee8.js",
+    "static/js/453.f9e98e0f.chunk.js": "/ReactFrontendProjsFreeCodeCamp/static/js/453.f9e98e0f.chunk.js",
+    "index.html": "/ReactFrontendProjsFreeCodeCamp/index.html",
+    "main.f080c358.css.map": "/ReactFrontendProjsFreeCodeCamp/static/css/main.f080c358.css.map",
+    "main.fe114ee8.js.map": "/ReactFrontendProjsFreeCodeCamp/static/js/main.fe114ee8.js.map",
+    "453.f9e98e0f.chunk.js.map": "/ReactFrontendProjsFreeCodeCamp/static/js/453.f9e98e0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f080c358.css",
+    "static/js/main.fe114ee8.js"
+  ]
+}
